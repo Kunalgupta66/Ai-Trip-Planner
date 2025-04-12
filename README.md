@@ -1,10 +1,56 @@
-# React + Vite
+# 🧳 AI Trip Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered web application that helps users plan trips by generating personalized itineraries, suggesting top places to visit, and recommending nearby hotels — all in one place. It uses modern web technologies, AI APIs, Google services, and real-time data fetching for an interactive travel experience.
 
-Currently, two official plugins are available:
+## 🌐 Live Preview
+[Visit the Live Website](https://ai-trip-planner.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-Working website Url : - https://ai-trip-planner-black.vercel.app/
+## 🚀 Features
+
+- ✈️ AI-generated personalized trip plans
+- 🗺️ Explore top places in any city or country
+- 🏨 View hotels around tourist spots with real images
+- 🔒 Google OAuth login integration
+- 📦 Firebase integration for auth & data storage
+- 📍 Interactive map with hotel and place markers
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔤 **Languages & Frameworks**
+- **React.js** – Frontend UI
+- **JavaScript** – Logic & interactivity
+- **HTML5 & CSS3** – Page structure and styling
+- **Tailwind CSS** – Utility-first styling framework
+
+### 📦 **Libraries & Tools**
+- **React Router** – Routing
+- **Framer Motion** – UI animations
+- **ShadCN/UI** – Component styling
+- **Axios** – API requests
+- **Lucide React** – Icon set
+- **Recharts** – Graph/chart rendering
+
+### 🔐 **Authentication**
+- **Firebase Auth**
+- **Google OAuth**
+
+---
+
+## 🔌 APIs & Services Used
+
+| Service/API | Purpose |
+|-------------|---------|
+| **OpenAI API** | Generate intelligent trip itineraries and place descriptions |
+| **Google Maps API** | Display maps, location markers, and surrounding places |
+| **Google Places API** | Fetch real-time data of hotels and tourist spots |
+| **Firebase** | Authentication and data storage |
+| **Unsplash API** *(optional)* | Fetch beautiful images of places (if implemented)*
+
+---
+
+## 📁 Folder Structure (Simplified)
+

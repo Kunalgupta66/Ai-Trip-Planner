@@ -3,7 +3,7 @@
 An AI-powered web application that helps users plan trips by generating personalized itineraries, suggesting top places to visit, and recommending nearby hotels — all in one place. It uses modern web technologies, AI APIs, Google services, and real-time data fetching for an interactive travel experience.
 
 ## 🌐 Live Preview
-[Visit the Live Website](https://ai-trip-planner.vercel.app)
+[Visit the Live Website](https://ai-trip-planner-black.vercel.app/)
 
 ---
 

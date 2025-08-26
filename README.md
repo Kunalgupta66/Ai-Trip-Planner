@@ -51,6 +51,3 @@ An AI-powered web application that helps users plan trips by generating personal
 | **Unsplash API** *(optional)* | Fetch beautiful images of places (if implemented)*
 
 ---
-
-## 📁 Folder Structure (Simplified)
-

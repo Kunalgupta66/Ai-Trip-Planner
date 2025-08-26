@@ -44,7 +44,7 @@ An AI-powered web application that helps users plan trips by generating personal
 
 | Service/API | Purpose |
 |-------------|---------|
-| **OpenAI API** | Generate intelligent trip itineraries and place descriptions |
+| **GEMINI API** | Generate intelligent trip itineraries and place descriptions |
 | **Google Maps API** | Display maps, location markers, and surrounding places |
 | **Google Places API** | Fetch real-time data of hotels and tourist spots |
 | **Firebase** | Authentication and data storage |
